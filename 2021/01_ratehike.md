@@ -2,6 +2,7 @@
 
 ## Overview
 
+|-----------------------|-------------------------------------|
 | Number of Respondents | 16                                  |
 |-----------------------|-------------------------------------|
 | Affiliations          | All UChicago Economics PhD Students |
@@ -34,8 +35,7 @@
 ![Results for Question B](/assets/img/02.png)
 
 ### Question C
-**"When do you expect the FOMC to formally announce the beginning of tapering of its purchases of Treasuries and mortgage-backed securities?"
-**
+**"When do you expect the FOMC to formally announce the beginning of tapering of its purchases of Treasuries and mortgage-backed securities?"**
 
 ![Results for Question C](/assets/img/03.png)
 
