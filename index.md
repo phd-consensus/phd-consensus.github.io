@@ -1,6 +1,7 @@
 ## PhD Consensus
 
 This survey explores PhD students' views on vital policy issues, regularly polling students on a range of timely and relevant topics. 
+- Project Organizer: [Sangmin Oh](https://sangmino.github.io/)
 
 The results provide a counterpart to the often-cited survey conducted by The [Initiative on Global Markets (IGM)](https://www.igmchicago.org/).
 
