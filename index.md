@@ -8,10 +8,10 @@ The results provide a counterpart to the often-cited survey conducted by the [In
 ## Polls
 ### 2021
 
-|   | Title             | Date           |
-|---|-------------------|----------------|
-| 3 | Inflation         | December 2021  |
-| 2 | Vaccine Mandate   | October 2021   |
-| 1 | [A 2022 Rate Hike?](2021/01_ratehike.md) | September 2021 |
+|   | Title             | Date           | Results        |         
+|---|-------------------|----------------|----------------|
+| 3 | Inflation         | December 2021  |[Link](2021/03_inflation.md) |
+| 2 | Vaccine Mandate   | October 2021   |[Link](2021/02_vaccine.md) |
+| 1 | A 2022 Rate Hike? | September 2021 |[Link](2021/01_ratehike.md) |
 
 
