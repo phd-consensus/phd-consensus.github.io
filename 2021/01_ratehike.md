@@ -2,10 +2,6 @@
 
 This month’s FTxIGM US Macroeconomists Survey looks at a 2022 interest rate hike. It also examines a timeline for when the FOMC might begin tapering of its purchases of Treasuries and mortgage-backed securities.
 
-| Number of Respondents | 16                                  |
-|-----------------------|-------------------------------------|
-| Affiliations          | All UChicago Economics PhD Students |
-
 ### Summary
 Compared to the macroeconomist surveys, the PhD students attached a lower probability to the likelihood of core PCE inflation exceeding 2% per annum in the year ending December 2022. While 58% of the macroeconomists placed more than 60% chance, only 37.5% of the PhD student responses did. No PhD student attached a more than 90% chance, while 20% of the macroeconomists did.
 
