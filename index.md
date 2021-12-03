@@ -5,7 +5,8 @@ This survey explores PhD students' views on vital policy issues, regularly polli
 
 The results provide a counterpart to the often-cited survey conducted by The [Initiative on Global Markets (IGM)](https://www.igmchicago.org/).
 
-## 2021-22 Polls
+## Polls
+
 |   | Title             | Date           |
 |---|-------------------|----------------|
 | 1 | A 2022 Rate Hike? | September 2021 |
