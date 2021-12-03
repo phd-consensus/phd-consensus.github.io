@@ -1,8 +1,5 @@
 # A 2022 Rate Hike?
 
-## Overview
-
-|-----------------------|-------------------------------------|
 | Number of Respondents | 16                                  |
 |-----------------------|-------------------------------------|
 | Affiliations          | All UChicago Economics PhD Students |
@@ -14,8 +11,7 @@
 
 ## Details
 ### Question A
-**"What is your estimate of the likelihood that core PCE inflation will exceed 2% per annum in the year ending December 2022, i.e. 2021 December/2022 December?"
-**
+**"What is your estimate of the likelihood that core PCE inflation will exceed 2% per annum in the year ending December 2022, i.e. 2021 December/2022 December?"**
 
 ![Results for Question A](/assets/img/01.png)
 
