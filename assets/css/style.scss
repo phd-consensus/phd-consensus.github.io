@@ -1,0 +1,12 @@
+---
+---
+@import "{{ site.theme }}";
+a {
+  color:#6ECBDA;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:#6ECBDA;
+  font-weight: bold;
+}
