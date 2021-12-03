@@ -1,9 +1,5 @@
 # Vaccine Mandate
 
-| Number of Respondents | 14                                  |
-|-----------------------|-------------------------------------|
-| Affiliations          | All UChicago Economics PhD Students |
-
 ### Question A
 **"Mandating staff vaccinations and/or regular testing at big employers would promote a faster and stronger economic recovery."**
 
