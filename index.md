@@ -10,6 +10,7 @@ The results provide a counterpart to the often-cited survey conducted by the [In
 
 |   | Title             | Date           | Results        |         
 |---|-------------------|----------------|----------------|
+| 4 | Omicron           | December 2021  |[Link](2021/04_omicron.md)|
 | 3 | Inflation         | December 2021  |[Link](2021/03_inflation.md) |
 | 2 | Vaccine Mandate   | October 2021   |[Link](2021/02_vaccine.md) |
 | 1 | A 2022 Rate Hike? | September 2021 |[Link](2021/01_ratehike.md) |
