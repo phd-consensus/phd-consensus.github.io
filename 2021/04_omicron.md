@@ -2,6 +2,10 @@
 
 ### Summary
 
+Unlike the economist panel who mostly agreed or were ambivalent about the health threat of Omicron, a significant portion of the PhD respondents did not think that Omicron will deliver a significant hit to economic activity from now through the first half of 2022. Many responses forecasted that lockdowns were unlikely and people will carry on with their lives, keeping the economy on its current trajectory.
+
+The PhD respondents tended to agree more strongly on the role of vaccine distribution on global social welfare (33% strongly agree for PhD students vs. 14% strongly agree for the economist panel). The response for the last question, which pertains to travel bans, was similar for both panels.
+
 ### Question A
 **"Even without renewed Covid-19 restrictions, uncertainty about the health threat from the Omicron variant is likely to deliver a significant hit to economic activity from now through the first half of 2022."**
 
