@@ -10,6 +10,7 @@ The results provide a counterpart to the often-cited survey conducted by the [In
 
 |   | Title             | Date           | Results        |  IGM Panel Survey |        
 |---|-------------------|----------------|----------------|----------------|
+| 5 | Natural Experiments| January 2022 | [Link](2022/01_natural_experiment.md)|[Link](https://www.igmchicago.org/surveys/natural-experiments-in-labor-economics-and-beyond-2/)|
 | 4 | Omicron           | December 2021  |[Link](2021/04_omicron.md)|[Link](https://www.igmchicago.org/surveys/omicron-2/)|
 | 3 | Inflation         | December 2021  |[Link](2021/03_inflation.md) |[Link](https://www.igmchicago.org/surveys/inflation/)|
 | 2 | Vaccine Mandate   | October 2021   |[Link](2021/02_vaccine.md) |[Link](https://www.igmchicago.org/surveys/vaccine-mandate/)|
