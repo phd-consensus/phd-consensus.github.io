@@ -2,7 +2,7 @@
 
 ### Summary
 
-Very much like the economist panel, the PhD respondents showed an overwhelming appreciation of the introductino of natural experiments in contributing to a more precise understanding of cause and effect in economic settings. A similar level of consensus observed in the second question as well, which asks whether this credibility revolution has led to an imprvoed understanding of public policy issues.
+Very much like the economist panel, the PhD respondents showed an overwhelming appreciation of the introduction of natural experiments in contributing to a more precise understanding of cause and effect in economic settings. A similar level of consensus was observed in the second question as well, which asks whether this credibility revolution has led to an imprvoed understanding of public policy issues.
 
 The third question asks whether researchers often seek good answers instead of good questions. A third of the PhD respondents said "Strongly Agree" while only 4% of the Economist panel responded with the same answer. One respondent commented: "Part of grad school for me has been learning to try to avoid this. An interesting source of identification is not by itself a reason to write a paper."
 
