@@ -9,8 +9,9 @@ The results provide a counterpart to the often-cited survey conducted by the [In
 
 ### 2022
 
-|   | Title             | Date           | Results        |  IGM Panel Survey |        
-|---|-------------------|----------------|----------------|----------------|
+|   | Title             | Date           | Results        |  IGM Panel Survey |
+|---|-------------------|----------------|----------------|-------------------|
+[ 6 | Crypto Assets     | March 2022     |[Link](2022/02_crypto_assets.md)|[Link](https://www.igmchicago.org/surveys/crypto-assets/)
 | 5 | Natural Experiments| January 2022 | [Link](2022/01_natural_experiment.md)|[Link](https://www.igmchicago.org/surveys/natural-experiments-in-labor-economics-and-beyond-2/)|
 
 
