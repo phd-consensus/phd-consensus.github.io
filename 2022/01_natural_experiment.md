@@ -9,7 +9,7 @@ The third question asks whether researchers often seek good answers instead of g
 ### Question A
 **"The introduction of natural experiments to economic analysis of the labor market and related areas has led to a more precise understanding of cause and effect."**
 
-![Results for Question A](/assets/img/05_nautralexperiments_01.png)
+![Results for Question A](/assets/img/05_naturalexperiments_01.png)
 
 **Select Explanations**
 - While the long-run effectiveness of currently developing methods (looking at you DiD) is not yet known, the movement from not knowing anything -> just use OLS -> use IV and RDD has provided insights that were not available prior to the analysis of natural experiments. And some "basic theory" has been called into question, such as minimum wage effects, and this has spurred increased interest in these areas, e.g. labor market power is a growing topic.
@@ -22,7 +22,7 @@ The third question asks whether researchers often seek good answers instead of g
 ### Question B
 **The ‘credibility revolution’ in empirical economics has improved our understanding of a number of public policy issues, including education, immigration and the minimum wage."
 
-![Results for Question A](/assets/img/05_nautralexperiments_02.png)
+![Results for Question A](/assets/img/05_naturalexperiments_02.png)
 
 **Select Explanations**
 - The degree to which this is true will depend on the setting. For questions with minimal general equilibrium concerns, I would be more confident, compared to questions where GE concerns are likely playing a large role.
@@ -35,7 +35,7 @@ The third question asks whether researchers often seek good answers instead of g
 ### Question C
 **In pursuit of credible research designs, researchers often seek good answers instead of good questions.**
 
-![Results for Question A](/assets/img/05_nautralexperiments_03.png)
+![Results for Question A](/assets/img/05_naturalexperiments_03.png)
 
 **Select Explanations**
 - Yes, but we are also limited by what questions we can answer with given data/experiments. We can't always identify the ATE of maximal interest, but that doesn't mean we should ignore a setting where we can learn about a different TE, which may also be of interest, even if less so.
