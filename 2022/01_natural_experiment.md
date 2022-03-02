@@ -20,7 +20,7 @@ The third question asks whether researchers often seek good answers instead of g
 - Many papers in this field have sound econometrics and yet disagree on everything
 
 ### Question B
-**The ‘credibility revolution’ in empirical economics has improved our understanding of a number of public policy issues, including education, immigration and the minimum wage."
+**The ‘credibility revolution’ in empirical economics has improved our understanding of a number of public policy issues, including education, immigration and the minimum wage."**
 
 ![Results for Question A](/assets/img/05_naturalexperiments_02.png)
 
