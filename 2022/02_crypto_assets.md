@@ -1,6 +1,10 @@
 # Crypto Assets
 
 ### Summary
+Both the experts panel and the PhD respondents agree that the volatility in crypto prices reflect the movements in investor sentiment as opposed to news about fundamental value.
+
+The two set of respondents diverged on whether crypto assets pose significant risk to financial stability. 72% of the PhD respondents disagreed with 21% uncertain, while only 9% of the experts panel disagreed. On the other hand, 37% of the experts panel agreed, citing relation to climate risk (Acemoglu) and the lack of regulation (Duffie) as reasons. Only 9% disagreed and thought it did not pose a significant risk.
+
 
 ### Question A
 **High volatility in the prices of crypto assets such as Bitcoin, Dogecoin, and Ethereum largely reflects movements in investor sentiment rather than news about potential sources of fundamental value (such as possible applications, or use in illicit transactions).**
