@@ -11,6 +11,7 @@ The results provide a counterpart to the often-cited survey conducted by the [In
 
 |   | Title             | Date           | Results        |  IGM Panel Survey |
 |---|-------------------|----------------|----------------|-------------------|
+| 7 | Ukraine           | March 2022     |[Link](2022/03_ukraine.md)|[Link](https://www.igmchicago.org/surveys/ukraine-2/)
 | 6 | Crypto Assets     | March 2022     |[Link](2022/02_crypto_assets.md)|[Link](https://www.igmchicago.org/surveys/crypto-assets/)
 | 5 | Natural Experiments| January 2022 | [Link](2022/01_natural_experiment.md)|[Link](https://www.igmchicago.org/surveys/natural-experiments-in-labor-economics-and-beyond-2/)|
 
