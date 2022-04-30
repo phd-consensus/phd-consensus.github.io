@@ -1,7 +1,9 @@
 # Ukraine
 
 ### Summary
-TBD
+Regarding the impact of sanctions on Russian economy, both panels generally agreed that it will lead to a recession in Russia. Regarding the impact on the European economy and the future of the dollar hegemony, both panels expressed great uncertainty.
+
+We see some divergence regarding the global impact of Russain invasion of Ukraine. The experts panel tended to agree more that it will noticeably reduce global growth and raise global inflation than did the PhD panel. 
 
 ### Question A
 **The fallout from the Russian invasion of Ukraine will be stagflationary in that it will noticeably reduce global growth and raise global inflation over the next year.**
