@@ -19,7 +19,7 @@ TBD
 ### Question B
 **The economic and financial sanctions already implemented will lead to a deep recession in Russia.**
 
-![Results for Question B](/assets/img/07_ukraine_02.png)
+![Results for Question B](/assets/img/07_ukraine_02.PNG)
 
 **Select Explanations**
 - Currency fall –> 20% inflation , fall in c and i. Employment shock from companies leaving -> further decline in income
@@ -30,7 +30,7 @@ TBD
 ### Question C
 **Targeting the Russian economy through a total ban on oil and gas imports carries a high risk of recession in European economies.**
 
-![Results for Question C](/assets/img/07_ukraine_03.png)
+![Results for Question C](/assets/img/07_ukraine_03.PNG)
 
 **Select Explanations**
 - Recession seems a likely adjustment side effect while the energy market reconfigures
@@ -42,7 +42,7 @@ TBD
 ### Question D
 **Weaponizing dollar finance is likely to lead to a significant shift away from the dollar as the dominant international currency.**
 
-![Results for Question D](/assets/img/07_ukraine_04.png)
+![Results for Question D](/assets/img/07_ukraine_04.PNG)
 
 **Select Explanations**
 - Don’t know much about the topic. Have a feeling that there’s already been a trend in moving away from dollar (for other reasons)?
