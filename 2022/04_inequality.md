@@ -1,14 +1,15 @@
 # Inequality
 
 ### Summary
-TBD.
+62% of the expert panel agreed and only 12% disagreed that the "increasing share of income and wealth among the richest Americans" is major threat to capitalism. In contrast, only 46% of the PhD respondents agreed and 30% in fact disagreed with this statement. 
 
+On whether the same trend causes damage to the economic opportunities of children from lower-income families, both sets of respondents generally agreed. Similar consensus among both sets of respondents was found on whether this trend "is giving significantly more political power to the wealthy." 
 
 
 ### Question A
 **The increasing share of income and wealth among the richest Americans is a major threat to capitalism.**
 
-![Results for Question A](/assets/img/08_inequality_01.png)
+![Results for Question A](/assets/img/08_inequality_01.jpg)
 
 **Select Explanations**
 - The inability of capitalism to redistribute profits is seen by many as a failure of ‘trickle down economics’ and capitalism. Whether that is true, is a value judgement, but arguably it’s a threat to its success, as perceived.
@@ -20,7 +21,7 @@ TBD.
 ### Question B
 **The increasing share of income and wealth among the richest Americans is causing significant damage to the economic opportunities of children from lower-income families.**
 
-![Results for Question B](/assets/img/08_inequality_02.png)
+![Results for Question B](/assets/img/08_inequality_02.jpg)
 
 **Select Explanations**
 - Many opportunities are zero-sum. Wealth buys access, damaging children from low-income families.
@@ -32,7 +33,7 @@ TBD.
 ### Question C
 **The increasing share of income and wealth among the richest Americans is giving significantly more political power to the wealthy.**
 
-![Results for Question C](/assets/img/08_inequality_03.png)
+![Results for Question C](/assets/img/08_inequality_03.jpg)
 
 **Select Explanations**
 - While Trump might have been richer than Clinton privately, she raised some 40% more than Trump in 2016 https://www.washingtonpost.com/graphics/politics/2016-election/campaign-finance/ However, Trump won the presidency. Generally, I'd have to be convinced with data that the power of the wealthy is increasing over time.
