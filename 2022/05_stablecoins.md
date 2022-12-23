@@ -1,7 +1,12 @@
 # Stablecoins
 
 ### Summary
--
+- Majority of respondents both among IGM experts (81%) and PhD respondents (70%) agreed that stablecoins are inherently vulnerable to runs. The IGM experts generally had more confidence in their responses compared to the PhD respondents.
+- Note the following responses from select experts:
+  - Richard Thaler: "Eric Budish has convinced me this is true in theory, and recent events suggest it is true in practice."
+  - Robert Shimer: "The only other way to avoid vulnerability to runs is treasury guarantees, but that defeats the purpose of stable coins."
+  - Anil Kashyap: "Should be called unstable coins, they have the same design flaws as MMMFs."
+  - Robert Hall: "Wrong. Less stable backing can be overcome by additional backing; e.g. bonds backed by enough sub-prime mortgages can be AAA."
 
 ### Question A
 **Stablecoins that are not fully backed by either central bank reserves or government securities with minimal price volatility are inherently vulnerable to runs.**
