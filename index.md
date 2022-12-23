@@ -11,6 +11,7 @@ The results provide a counterpart to the often-cited survey conducted by the [In
 
 |   | Title             | Date           | Results        |  IGM Panel Survey |
 |---|-------------------|----------------|----------------|-------------------|
+| 10 | Public and Private Equities       | December 2022      |[Link](2022/06_pe.md)|[Link](https://www.igmchicago.org/surveys/public-and-private-equities/)
 | 9 | Stablecoins       | June 2022      |[Link](2022/05_stablecoins.md)|[Link](https://www.igmchicago.org/surveys/stablecoins/)
 | 8 | Inequality        | April 2022     |[Link](2022/04_inequality.md)|[Link](https://www.igmchicago.org/surveys/inequality/)
 | 7 | Ukraine           | March 2022     |[Link](2022/03_ukraine.md)|[Link](https://www.igmchicago.org/surveys/ukraine-2/)
